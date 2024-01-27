@@ -10,8 +10,8 @@
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: https://github.com/stolenfallen1/time-tracking-dashboard
+-   Live Site URL: https://cheerful-pastelito-fab59e.netlify.app
 
 ### Built with
 
@@ -20,4 +20,3 @@
 -   Tailwind
 -   Flexbox
 -   CSS Grid
--   Mobile-first workflow
