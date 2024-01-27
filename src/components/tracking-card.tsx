@@ -39,6 +39,7 @@ export default function TrackingCard({
                         }`}
                     >
                         <div
+                            className="[&>*]:float-right"
                             dangerouslySetInnerHTML={{
                                 __html: iconMapping[data.title],
                             }}
