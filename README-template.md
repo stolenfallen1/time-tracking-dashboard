@@ -7,6 +7,10 @@
 ### Screenshot
 
 ![](./screenshot.jpg)
+![](./screenshots/SC1.png)
+![](./screenshots/SC2.png)
+![](./screenshots/SC3.png)
+![](./screenshots/SC4.png)
 
 ### Links
 
